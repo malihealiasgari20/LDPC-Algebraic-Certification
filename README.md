@@ -55,7 +55,7 @@ flowchart TD
 - Explicit proof objects can be checked separately from the implementation that constructed them.
 - Computational experiments can be validated through exact arithmetic and independent implementations.
 
-**Scope:** The ITW version establishes *finite* examples of certificate-degree separation. It does **not** establish an asymptotic separation, faster decoding, improved error-correction performance, or a faster general-purpose search algorithm. Results unique to the extended journal manuscript are intentionally excluded from this repository.
+**Scope:** The ITW version establishes *finite* examples of certificate-degree separation. It does **not** establish an asymptotic separation, faster decoding, improved error-correction performance, or a faster general-purpose search algorithm. This repository presents only the work described in the ITW 2027 submission.
 
 ## Technical competencies illustrated
 
